@@ -8,7 +8,6 @@ A chatbot or chatterbot is a software application used to conduct an on-line cha
 
 ## Features
 - Register Screen.
-- Register first.
 - Sign-in Screen.
 - Generates database for user login system.
 - Offers you a GUI Based Chatbot for patients for diagnosing. [A pragmatic Approach for Diagnosis]
